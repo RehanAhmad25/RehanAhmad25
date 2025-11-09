@@ -25,7 +25,7 @@ I love crafting solutions that blend logic, simplicity, and innovation.
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,vscode,github,linux" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,vscode,github" height="45"/>
 </p>
 
 ---
