@@ -51,6 +51,11 @@ I love crafting solutions that blend logic, simplicity, and innovation.
 
 ---
 
+### 🧐 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=RehanAhmad25&color=blue)
+
+---
+
 ### ✨ Fun Fact
 > “I like making complex things simple — whether it’s code or life.” 💡  
 
