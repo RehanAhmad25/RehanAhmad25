@@ -29,12 +29,26 @@ I'm a **first-year Information Technology** student at **BIT Sindri**, passionat
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" height="42"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" height="42"/>
 </p>
 
 **Frontend & Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,git,github,vscode" height="42"/>
+</p>
+
+**Blockchain**
+<p>
+  <img src="https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/algosdk-1a1a2e?style=for-the-badge&logo=algorand&logoColor=00d4aa" height="28"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pera_Wallet-000000?style=for-the-badge&logo=algorand&logoColor=white" height="28"/>
+</p>
+
+**APIs & AI**
+<p>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28"/>
 </p>
 
 ---
