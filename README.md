@@ -1,65 +1,74 @@
-<!-- Hybrid Pro-Level GitHub README -->
+<div align="center">
 
-<h1 align="center">Hey, I'm <span style="color:#5ec2ff;">Rehan Ahmad</span> 👋</h1>
-<h3 align="center">IT Undergrad • Developer • AI & Tech Enthusiast</h3>
+<h1>Hey, I'm Rehan Ahmad 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" alt="Coding GIF">
+<a href="https://github.com/RehanAhmad25">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=5EC2FF&center=true&vCenter=true&width=600&lines=IT+Undergrad+%40+BIT+Sindri;Competitive+Programmer+%7C+Codeforces;Open+Source+Contributor;Developer+%7C+Problem+Solver+%7C+Builder" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RehanAhmad25&color=5ec2ff&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm a **first-year Information Technology** student at **BIT Sindri**, passionate about competitive programming, open-source, and building things that matter.
+
+- 🏆 **GSSoC'26** Open Source Contributor
+- 🥇 **SWOC'26 Top 100** Contributor
+- ⚔️ Competitive Programmer on **Codeforces**
+- 🚀 Always learning — from DSA to real-world development
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" height="42"/>
+</p>
+
+**Frontend & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,git,github,vscode" height="42"/>
 </p>
 
 ---
 
-### 🧠 About Me
-I’m an IT undergrad passionate about tech, AI, and creative projects.  
-Currently exploring Python and mastering DSA in C++.  
-I love crafting solutions that blend logic, simplicity, and innovation.
+## 📊 GitHub Stats
 
----
-
-### 🧩 Currently Working On
-- 🚀 Problem-solving & DSA  
-- 🤖 AI/ML projects and experiments  
-- 💻 Building small impactful applications  
-
----
-
-### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,vscode,github" height="45"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RehanAhmad25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanAhmad25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RehanAhmad25&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/rehanahmad25" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/rehanahmad25" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/RehanAhmad25" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rehanahmad25&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanahmad25&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
+<div align="center">
 
----
+*"Keep building. Keep learning. Keep evolving."* 🚀
 
-### 🧐 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=RehanAhmad25&color=blue)
-
----
-
-### ✨ Fun Fact
-> “I like making complex things simple — whether it’s code or life.” 💡  
-
----
-
-### 🎯 Quote I Live By
-> _“Keep building. Keep learning. Keep evolving.”_ 🚀
+</div>
