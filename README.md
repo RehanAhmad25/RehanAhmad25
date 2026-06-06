@@ -42,12 +42,6 @@ I'm a **first-year Information Technology** student at **BIT Sindri**, passionat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RehanAhmad25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanAhmad25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=RehanAhmad25&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
