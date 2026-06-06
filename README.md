@@ -22,7 +22,7 @@ I'm a **first-year Information Technology** student at **BIT Sindri**, passionat
 - 🏆 **SSoC'26** Open Source Contributor
 - 🥇 **SWOC'26 Top 100** Contributor
 - ⚔️ Competitive Programmer on **Codeforces**
-- 🚀 Always learning — from DSA to real-world development
+- 🚀 Always learning : from DSA to real-world development
 
 ---
 
