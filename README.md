@@ -19,6 +19,7 @@
 I'm a **first-year Information Technology** student at **BIT Sindri**, passionate about competitive programming, open-source, and building things that matter.
 
 - 🏆 **GSSoC'26** Open Source Contributor
+- 🏆 **SSoC'26** Open Source Contributor
 - 🥇 **SWOC'26 Top 100** Contributor
 - ⚔️ Competitive Programmer on **Codeforces**
 - 🚀 Always learning — from DSA to real-world development
