@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-I'm a **first-year Information Technology** student at **BIT Sindri**, passionate about competitive programming, open-source, and building things that matter.
+I'm an **Information Technology** student at **BIT Sindri**, passionate about competitive programming, open-source, and building things that matter.
 
 - 🏆 **GSSoC'26** Contributor
 - 🏆 **SSoC'26 Top 100** Contributor
