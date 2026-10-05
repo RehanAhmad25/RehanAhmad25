@@ -54,14 +54,6 @@ I'm an **Information Technology** student at **BIT Sindri**, passionate about co
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RehanAhmad25&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
