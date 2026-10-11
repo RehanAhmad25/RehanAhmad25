@@ -9,10 +9,15 @@
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═════╝
 </pre>
 
-<img src="spiderman.gif" width="180" alt="Spider-Man swinging" />
+<p align="center">
+  <img src="spiderman.gif" width="180" alt="Spider-Man swinging" />
+</p>
 
-<a href="https://github.com/RehanAhmad25">
-  <img src="rehan-stats-banner.svg" alt="Rehan Ahmad's open source achievements and quote" width="760" />
-</a>
+<p align="center">
+  <a href="https://github.com/RehanAhmad25">
+    <img src="rehan-stats-banner.svg" alt="Rehan Ahmad's open source achievements and quote" width="760" />
+  </a>
+</p>
 
 </div>
+
